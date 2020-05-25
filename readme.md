@@ -1,0 +1,1 @@
+Implementation of logistic regression. (Exercise is from Machine Learning Course by Andrew Ng from www.coursera.com)
